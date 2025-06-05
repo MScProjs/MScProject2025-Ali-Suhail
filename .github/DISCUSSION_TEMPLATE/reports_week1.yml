@@ -1,0 +1,42 @@
+title: "Weekly report: 02/06/2025"
+labels: ["Reports"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - Writing meeting minutes is compulsory.
+        - Be concise, but provide enough detail for clarity.
+        - Remember to change the title to include the meeting's date!
+        - You can use markdown to structure your minutes, link reports, enter code, etc.
+  - type: textarea
+    id: thisweek
+    attributes:
+      label: This week
+      description: |
+        Describe what you have done this last week. Don't be restricted to achievements and progress. Studying, reading papers and getting stuck at things are expected activities and should be listed and described accordingly. If you got stuck, explain what you have tried and how you attempted to progress. Match your description against what you had planned last week for this one.
+      value: |        
+
+        - Review the Blackboard briefing and available project resources. (Done)
+        - Go through the ethics guidelines and with the project plan template. (Done)
+        - Study relevant academic papers and literature related to the dataset. (Done)
+        - Set up a Trello Kanban board and a Gantt chart, and begin identifying tasks using the MoSCoW method. (Done)
+        - Explore the dataset to understand its structure and relationships, and perform exploratory data analysis (EDA) using Python and Tableau for deeper insight. (Done)
+
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: nextweek
+    attributes:
+      label: Next week
+      description: |
+        Describe what you intend to do next week. If you have questions, you can ask them here too.
+      value: |
+        
+        - Begin a detailed exploration of the dataset to extract deeper insights. After that, proceed with data cleaning and prepare the dataset for machine learning model training.
+        - Start developing the Gantt chart by breaking down tasks and organising them with appropriate timelines and responsibilities.
+        - Begin drafting the project plan and address any outstanding ethical considerations related to the project.
+
+      render: markdown
+    validations:
+      required: true
