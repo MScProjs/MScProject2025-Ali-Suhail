@@ -8,7 +8,8 @@ body:
         - Be concise, but provide enough detail for clarity.
         - Remember to change the title to include the meeting's date!
         - You can use markdown to structure your minutes, link reports, enter code, etc.
-  - type: textarea
+  
+  - type: markdown
     id: thisweek
     attributes:
       label: This week
@@ -25,7 +26,9 @@ body:
       render: markdown
     validations:
       required: true
-  - type: textarea
+
+
+  - type: markdown
     id: nextweek
     attributes:
       label: Next week
