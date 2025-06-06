@@ -1,0 +1,15 @@
+REFERENCES
+
+A systematic review on the deployment and effectiveness of data analytics in higher education to improve student outcomes
+https://www.tandfonline.com/doi/full/10.1080/02602938.2019.1696945?scroll=top&needAccess=true#d1e1534
+
+An overview and comparison of supervised data mining techniques for student exam performance prediction
+https://www.sciencedirect.com/science/article/pii/S0360131519302295#sec2
+
+DATASET ANALYSIS
+
+OULAD: Open University Learning Analytics Dataset
+https://www.kaggle.com/code/vjcalling/oulad-open-university-learning-analytics-dataset
+
+Student Failure| Modelling with a messy dataset
+https://www.kaggle.com/code/sashatarakanova/student-failure-modelling-with-a-messy-dataset#11.-Regression
