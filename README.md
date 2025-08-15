@@ -2,17 +2,17 @@
 
 ## Student Details
 
-Student Name: Ali Suhail
-Course Name: MSc Data Science
+* Student Name: Ali Suhail
+* Course Name: MSc Data Science
 
 ## Project Details
 
-Module Code: EMATM0047 
-Module Name: Data Science Project
-Project: P021 Student Dropout Predictor (Industry Project)
-Supervisor: Dr. Felipe Campelo
+* Module Code: EMATM0047
+* Module Name: Data Science Project
+* Project: P021 Student Dropout Predictor (Industry Project)
+* Supervisor: Dr. Felipe Campelo
 
-Link to the Trello Kanban Board: `https://trello.com/b/5qldy1Wz`
+* Link to the Trello Kanban Board: `https://trello.com/b/5qldy1Wz`
 
 ## Repository Details
 
