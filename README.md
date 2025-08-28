@@ -3,6 +3,7 @@
 ## Student Details
 
 * Student Name: Ali Suhail
+* Student ID: 2605549
 * Course Name: MSc Data Science
 
 ## Project Details
